@@ -1,0 +1,5 @@
+1) Hacer andar la calculadora para las operaciones faltantes (-, * y /)
+2) Si falta ingresar alguno de los dos números, mostrar un alert indicando que debe ingresar dos números.
+3) Si no se ingresa ningun operador de los aceptados (+, -, * o /), que por defecto haga una suma.
+4) Si el resultado es igual a 10 o a 20, mostrar un mensaje que diga "Resultado igual a 10 o 20"
+5) pasar el array x un for / for in / while
